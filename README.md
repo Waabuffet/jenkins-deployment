@@ -16,4 +16,4 @@ Make sure all plugins are installed successfully.
 
 Next, we will create an admin user for us, then proceed with the steps to reach our dashboard page
 
-![Jeknins Dashboard](/screenshots/jenkins-dashboard.jpg?raw=true "Jenkins Dashboard")
+![Jeknins Dashboard](/screenshots/jenkins-dashboard.png?raw=true "Jenkins Dashboard")
